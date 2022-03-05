@@ -1,0 +1,60 @@
+{
+    "users":[
+        {
+        "nome":"Justin Bieber",
+        "usuario":"justinbieber",
+        "data_nasc":"1994-03-01",
+        "perfil":"influencer",
+        "cpf":"088.162.390-34"
+        },
+        {
+        "nome":"Beyonce Giselle",
+        "usuario":"beyonce",
+        "data_nasc":"1981-09-04",
+        "perfil":"influencer",
+        "cpf":"849.324.290-02"
+        },
+        {
+        "nome":"Kim Kardashian",
+        "usuario":"kimkardashian",
+        "data_nasc":"1980-10-21",
+        "perfil":"influencer",
+        "cpf":"920.784.720-50"
+        },
+        {
+        "nome":"Ariana Grande",
+        "usuario":"arianagrande",
+        "data_nasc":"1993-05-26",
+        "perfil":"influencer",
+        "cpf":"840.020.930-34"
+        },
+        {
+        "nome":"Selena Gomez",
+        "usuario":"selenagomez",
+        "data_nasc":"1992-06-22",
+        "perfil":"influencer",
+        "cpf":"276.934.130-81"
+        },
+        {
+        "nome":"Dwayne Douglas Johnson",
+        "usuario":"therock",
+        "data_nasc":"1972-05-02",
+        "perfil":"influencer",
+        "cpf":"151.327.950-56"
+        },
+        {
+        "nome":"Lionel Messi",
+        "usuario":"leomessi",
+        "data_nasc":"1987-05-24",
+        "perfil":"influencer",
+        "cpf":"400.415.260-74"
+        },
+        {
+        "nome":"Cristiano Ronaldo",
+        "usuario":"cristiano",
+        "data_nasc":"1985-02-05",
+        "perfil":"influencer",
+        "cpf":"150.498.310-67"
+        }
+    ]
+}
