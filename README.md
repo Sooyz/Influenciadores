@@ -20,3 +20,5 @@
     }
     (Login utilizando campo user)
 9. php artisan serve (localhost:8080)
+10. Logins para teste: leomessi,therock,cristiano,beyonce,kimkardashian,arianagrande,selenagomez,justinbieber.
+11. Senha para todos os logins pré cadastrados: 12345
