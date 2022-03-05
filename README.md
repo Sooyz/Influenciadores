@@ -1,7 +1,7 @@
 # Influenciadores
- Auth + bootstrap
- Cadastro de Influenciador(a)
- Busca de informações na API do Instagram
+1. Auth + bootstrap
+2. Cadastro de Influenciador(a)
+3. Busca de informações na API do Instagram
 
 
 # Comandos para execução
