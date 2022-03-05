@@ -1,4 +1,4 @@
-# influenciadores
+# Influenciadores
  Auth + bootstrap
  Cadastro de Influenciador(a)
  Busca de informações na API do Instagram
